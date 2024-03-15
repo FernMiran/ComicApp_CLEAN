@@ -48,9 +48,3 @@ This project draws inspiration and best practices from various sources, includin
 - The .NET documentation and community resources
 - Domain-Driven Design by Eric Evans
 - Clean Architecture by Robert C. Martin
-
-Thank you for visiting this repository, and we hope it serves as a valuable resource for your Blazor and .NET 8 projects.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
