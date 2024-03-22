@@ -34,12 +34,13 @@ The project is structured into the following main layers:
 ## Technologies Used
 
 - .NET 8
-- Blazor WebAssembly & Blazor Server
-- Entity Framework Core
-- ASP.NET Core Identity
+- Blazor
+- SQL Server
+- Fluent APIs
+- Fluent Validation
+- Generic repositories
 - MediatR
-- AutoMapper
-- FluentValidation
+- Minimal APIs
 
 ## Acknowledgments
 
