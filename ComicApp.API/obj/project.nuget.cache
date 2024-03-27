@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ulpn4SSxJDBuLNpzBwB6yW8se//2DYwBbCvtdnvTqcmffXIDjNbYQARL5+xt0hqoJbelBpujQFAjUBi+SWYtgg==",
+  "dgSpecHash": "bV0S+Pf+iOIuxsRdWiHkhJjYaTHKQ3xA19JDYP/+/UPgjN5oFIb4taIODU7S8vX7wOQT52xzDtASBRALcLeeSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fernanmi\\source\\repos\\ComicApp.API\\ComicApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fernanmi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fernanmi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\fernanmi\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\fernanmi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\fernanmi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\fernanmi\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\fernanmi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\fernanmi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "C:\\Users\\fernanmi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\fernanmi\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

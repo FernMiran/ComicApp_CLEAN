@@ -141,3 +141,9 @@ C:\Users\fernanmi\source\repos\ComicApp.API\obj\Debug\net8.0\refint\ComicApp.API
 C:\Users\fernanmi\source\repos\ComicApp.API\obj\Debug\net8.0\ComicApp.API.pdb
 C:\Users\fernanmi\source\repos\ComicApp.API\obj\Debug\net8.0\ComicApp.API.genruntimeconfig.cache
 C:\Users\fernanmi\source\repos\ComicApp.API\obj\Debug\net8.0\ref\ComicApp.API.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\ComicApp.Contracts.dll
+C:\Users\fernanmi\source\repos\ComicApp.API\bin\Debug\net8.0\ComicApp.Contracts.pdb
